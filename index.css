@@ -1,9 +1,11 @@
 body {
-    background-color: white;
+    background-image: url("
+        /main/Ars-technica-PS4.jpg
 }
 
 h2 {
-    background-image: url("
-        /main/Ars-technica-PS4.jpg
-      ");
+    
+    }
+p {
+    text-align: center;
     }
